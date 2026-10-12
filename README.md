@@ -49,12 +49,11 @@ Simulation waveform showing stored logic '0' read operation.
 ![Read 0](Read%200.png)
 
 ---
-
 ### DC Butterfly Curve
 
 Static Noise Margin analysis using the SRAM butterfly curve.
 
-![Butterfly Curve](DC%20Analysis%20butterfly%20curve.png)
+![Butterfly Curve](DC%20Analysis%20%20butterfly%20curve.png)
 
 ## Conclusion
 The CMOS 6T SRAM cell was successfully designed, simulated, and analyzed using Cadence Virtuoso. The results demonstrate proper memory storage behavior and validate the functionality of the SRAM cell.
