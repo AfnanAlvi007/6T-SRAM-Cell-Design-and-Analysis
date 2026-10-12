@@ -18,17 +18,43 @@ This project presents the design and analysis of a CMOS 6T SRAM cell using Caden
 
 ## Results
 
+### Schematic View
+
+Schematic design of the CMOS 6T SRAM cell.
+
+![Schematic](Schematic.png)
+
+---
+
 ### Layout View
-![SRAM 6T Layout](images/SRAM_6T_Cadence_Layout_View.png)
+
+Cadence Virtuoso layout implementation of the 6T SRAM cell.
+
+![Layout](Cadence%20layout%20view.png)
+
+---
 
 ### Read Operation (Logic 1)
-![Read 1](images/SRAM_6T_Read_Logic_1.png)
+
+Simulation waveform showing stored logic '1' read operation.
+
+![Read 1](Read%201.png)
+
+---
 
 ### Read Operation (Logic 0)
-![Read 0](images/SRAM_6T_Read_Logic_0.png)
+
+Simulation waveform showing stored logic '0' read operation.
+
+![Read 0](Read%200.png)
+
+---
 
 ### DC Butterfly Curve
-![Butterfly Curve](images/SRAM_6T_DC_Butterfly_Curve_SNV.png)
+
+Static Noise Margin analysis using the SRAM butterfly curve.
+
+![Butterfly Curve](DC%20Analysis%20butterfly%20curve.png)
 
 ## Conclusion
 The CMOS 6T SRAM cell was successfully designed, simulated, and analyzed using Cadence Virtuoso. The results demonstrate proper memory storage behavior and validate the functionality of the SRAM cell.
